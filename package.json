@@ -1,12 +1,12 @@
 {
-    "name": "react-native-lazyload",
+    "name": "react-native-lazyload-classpass",
     "version": "1.2.0",
     "description": "lazyload for react native",
     "license": "MIT",
     "main": "./index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/magicismight/react-native-lazyload"
+        "url": "https://github.com/irvinClassPass/react-native-lazyload"
     },
     "dependencies": {
         "react-native-scrollable-mixin": "^1.0.1"
